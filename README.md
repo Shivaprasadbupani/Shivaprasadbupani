@@ -1,5 +1,17 @@
+# Hi 👋, I'm Bupani Shivaprasad
+# Data Analyst | Business Analyst | Data Science Enthusiast | Software Developer
+
 # 💫 About Me:
-## 👋 About Me<br><br>🔭 **I’m currently working on:**<br>Building end-to-end Data Analytics and Software Development projects using Python, SQL, Power BI, Java, and Advanced Excel, while strengthening my portfolio with real-world business use cases.<br><br>👯 **I’m looking to collaborate on:**<br>Open-source projects and real-world applications related to Data Analytics, Data Science, Business Intelligence, Machine Learning, and Software Development.<br><br>🤝 **I’m looking for help with:**<br>Advanced Data Engineering concepts, Cloud technologies (AWS/Azure), Machine Learning, and scalable software architecture.<br><br>🌱 **I’m currently learning:**<br>Advanced SQL, Data Structures & Algorithms, Machine Learning, Data Engineering, Spring Boot, and modern data analytics tools and best practices.<br><br>💬 **Ask me about:**<br>Python, SQL, Java, Power BI, Tableau, Advanced Excel, Pandas, NumPy, Matplotlib, Data Visualization, Dashboard Development, Data Analysis, and Software Development.<br><br>🎓 **Education:**<br>Bachelor of Technology (B.Tech) in **Electronics and Instrumentation Engineering** from **Vignan Institute of Technology and Science**.<br><br>💼 **Professional Experience:**<br>1.3 years of professional experience at **Accenture**, working on data analysis, reporting, business insights, and software development using modern technologies.<br><br>🛠️ **Technical Skills:**<br>Python • Java • SQL • Power BI • Tableau • Advanced Excel • Pandas • NumPy • Matplotlib • Git • GitHub<br><br>🎯 **Career Interests:**<br>Data Analyst • Business Analyst • Data Scientist • Software Developer<br><br>⚡ **Fun fact:**<br>I enjoy transforming raw data into meaningful insights and continuously learning new technologies to solve real-world business problems.<br>
+## 👋 About Me<br><br>🔭 **I’m currently working on:**<br>Building end-to-end Data Analytics and Software Development projects using Python, SQL, Power BI, Java, and Advanced Excel, while strengthening my portfolio with real-world business use cases.<br><br>
+# 👯 **I’m looking to collaborate on:**<br>Open-source projects and real-world applications related to Data Analytics, Data Science, Business Intelligence, Machine Learning, and Software Development.
+# <br><br>🤝 **I’m looking for help with:**<br>Advanced Data Engineering concepts, Cloud technologies (AWS/Azure), Machine Learning, and scalable software architecture.
+# <br><br>🌱 **I’m currently learning:**<br>Advanced SQL, Data Structures & Algorithms, Machine Learning, Data Engineering, Spring Boot, and modern data analytics tools and best practices.
+# <br><br>💬 **Ask me about:**<br>Python, SQL, Java, Power BI, Tableau, Advanced Excel, Pandas, NumPy, Matplotlib, Data Visualization, Dashboard Development, Data Analysis, and Software Development.<br><br>
+# 🎓 **Education:**<br>Bachelor of Technology (B.Tech) in **Electronics and Instrumentation Engineering** from **Vignan Institute of Technology and Science**.<br><br>
+# 💼 **Professional Experience:**<br>1.3 years of professional experience at **Accenture**, working on data analysis, reporting, business insights, and software development using modern technologies.
+# <br><br>🛠️ **Technical Skills:**<br>Python • Java • SQL • Power BI • Tableau • Advanced Excel • Pandas • NumPy • Matplotlib • Git • GitHub<br><br>
+# 🎯 **Career Interests:**<br>Data Analyst • Business Analyst • Data Scientist • Software Developer<br><br>
+# ⚡ **Fun fact:**<br>I enjoy transforming raw data into meaningful insights and continuously learning new technologies to solve real-world business problems.<br>
 
 
 ## 🌐 Socials:
