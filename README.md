@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bupani Shivaprasad
+# Hi 👋, I'm Bupani Shivaprasad.
 # Software Developer | Data Analyst | Business Analyst | Data Science Enthusiast | 
 
 # 💫 About Me:
